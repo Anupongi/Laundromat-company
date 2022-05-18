@@ -1,0 +1,38 @@
+body .v-application {
+  font-family: 'Prompt', sans-serif !important;
+}
+.v-card {
+  text-align: center;
+}
+.text-h5 {
+  font-family: 'Prompt', sans-serif !important;
+}
+.head-line {
+  font-family: 'Prompt', sans-serif !important;
+  text-align: center !important;
+  padding-top: 10px;
+}
+h5 {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+}
+.washing {
+  width: 200px;
+}
+.coin {
+  margin-top: 10px;
+  width: 90px;
+}
+.check-coin {
+  margin-left: 20px;
+}
+.swal2-container {
+  font-family: 'Prompt', sans-serif !important;
+}
+.ten-countdown {
+  font-size: 16px;
+  font-weight: bold;
+  color: red;
+  margin-left: 10px;
+}
