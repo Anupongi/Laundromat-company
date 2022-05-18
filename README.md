@@ -1,4 +1,5 @@
-# Laundromat
+# Laundromat Company
+# ระบบจำลองการหยอดเหรียญเครื่องซักผ้า
 
 ## Build Setup
 
