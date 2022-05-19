@@ -5,7 +5,7 @@
         <v-card>
           <h2 class="head-line">LAUNDROMAT COMPANY</h2>
           <v-card-text>
-            <p>กรุณาเลือกเครื่องที่คุณต้องการใช้บริการ</p>
+            <p style="color:black;font-size:18px">กรุณาเลือกเครื่องที่คุณต้องการใช้บริการและหยอดเหรียญ</p>
           </v-card-text>
         </v-card>
       </v-col>
