@@ -1,8 +1,11 @@
 body .v-application {
   font-family: 'Prompt', sans-serif !important;
+  background-color: antiquewhite !important;
 }
 .v-card {
   text-align: center;
+  border-color: black;
+  border: solid black !important;
 }
 .text-h5 {
   font-family: 'Prompt', sans-serif !important;
